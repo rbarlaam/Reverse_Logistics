@@ -24,4 +24,6 @@ f.	json
 g.	geopandas
 h.	pyproj
 i.	plotly.graph_obj
-3.	Run the Python file in Streamlit:  Streamlit run ReverseLogistics.py
+3.	Download and add your Tender information in Reverse_Logistics_Template.xlsx that you will find in the 05. Final folder in Github
+4.	Run the Python file in Streamlit:  Streamlit run ReverseLogistics.py
+5.	Once you have run Streamlit, specify Reverse_Logistics_Template.xlsx file route in the  empty box.
